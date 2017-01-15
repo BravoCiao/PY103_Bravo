@@ -5,4 +5,6 @@
 * [-Ch0\Task\LPTHW First 22 Exercise](预备文档.md)
 * [Ch0\Note\Jump Across The Gap](ch0-准备周.md)
 * [Ch0\Note\Difference Between Python2 & Python3](python2-与-python-3的区别.md)
+* [Ch1\Note\Development Log](ch1notedevelopment-log.md)
+* [Ch1\Random Thoughts](ch1.md)
 
