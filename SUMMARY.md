@@ -7,4 +7,6 @@
 * [Ch0\Note\Difference Between Python2 & Python3](python2-与-python-3的区别.md)
 * [Ch1\Note\Development Log](ch1notedevelopment-log.md)
 * [Ch1\Random Thoughts](ch1.md)
+* [Ch2\Note\HalfwayDropDoodling](ch2notehalfwaydropdoodling.md)
+* [Ch2\Note\Random Thoughts](ch2noterandom-thoughts.md)
 
