@@ -10,4 +10,6 @@
 * [Ch2\Note\HalfwayDropDoodling](ch2notehalfwaydropdoodling.md)
 * [Ch2\Note\Random Thoughts](ch2noterandom-thoughts.md)
 * [Ch3\Note\Random Thoughts](ch3noterandom-thoughts.md)
+* [Ch4\Note\Web Application\_Filling the delayed pits](ch4noteweb-application_filling-the-delayed-pits.md)
+* [Ch4\Note\Random Thoughts](ch4noterandom-thoughts.md)
 
