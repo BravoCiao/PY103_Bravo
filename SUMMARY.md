@@ -12,4 +12,6 @@
 * [Ch3\Note\Random Thoughts](ch3noterandom-thoughts.md)
 * [Ch4\Note\Web Application\_Filling the delayed pits](ch4noteweb-application_filling-the-delayed-pits.md)
 * [Ch4\Note\Random Thoughts](ch4noterandom-thoughts.md)
+* [Ch5\Note\Random Thoughts](ch5noterandom-thoughts.md)
+* [Ch6\Note\Random Thoughts](ch6noterandom-thoughts.md)
 
